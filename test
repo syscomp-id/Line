@@ -13,3 +13,7 @@ http://medotv.nl:8000/TXmJK4tw9v/TAViJy7Uzd/118001
 #EXTINF:-1  tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL|THAiLandTv" ,CH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
 http://medotv.nl:8000/TXmJK4tw9v/TAViJy7Uzd/118002
+
+#EXTINF:-1  tvg-logo="https://pictr.com/images/2024/02/03/EkWnBJ.png" group-title="CHANNEL|THAiLandTv" ,CH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3
+http://medotv.nl:8000/TXmJK4tw9v/jz1OOOCvWD/115555?play_token=SAbPfPiEXk
